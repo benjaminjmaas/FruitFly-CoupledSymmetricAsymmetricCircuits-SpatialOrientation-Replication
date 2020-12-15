@@ -1,0 +1,10 @@
+Source,	Destination,	max_conductance
+EIP,	PEI,	5
+EIP,	PEN,	6
+EIP,	R_EIP,	1
+PEI,	EIP,	4
+PEN,	EIP,	6
+R_EIP,	EIP,	5
+R_EIP,	R_EIP,	1.6
+R_PEI,	PEI,	10
+R_PEN,	PEN,	10
